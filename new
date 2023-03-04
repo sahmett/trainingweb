@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            web train_3
+        </title>
+        <style>
+            img.tumb{
+                width: 500px;
+                height: 300px;
+                object-fit: contain;
+                object-position: right;
+                border-width: 2px;
+            }
+        </style>
+    </head>
+    <body>
+        <p> 
+            paragrafaa
+        </p>
+         <br>
+        <button>
+            button1
+        </button>
+        <br> <br>
+        <img class=tumb src="thumbnail-1.webp" >
+        <br>
+        <a href="github.com" target="_blank"> Git </a>
+    </body>
+</html>
